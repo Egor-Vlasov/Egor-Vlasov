@@ -11,7 +11,7 @@
 
 * Библиотеки для анализа данных: Pandas, NumPy, Matplotlib, Seaborn
 
-* Машинное обучение: Scikit-learn
+* Машинное обучение: Scikit-learn, Pytorch, Sarima
 
 * Работа с данными: очистка, предобработка, визуализация
 
